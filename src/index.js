@@ -9,8 +9,8 @@ import '@firebase/firestore';
 import { FirestoreProvider } from 'react-firestore';
 
 const config = {
-  apiKey: 'AIzaSyDqqfbbzfeOeTxjWCLCEleMY3T7tGmlkkU',
-  projectId: 'friendlyeats-1d35a',
+  apiKey: '<apiKey>',
+  projectId: '<projectId>',
 };
 
 firebase.initializeApp(config);
