@@ -2,6 +2,8 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import { RestaurantList } from './components/restaurant/restaurant.comp';
+
 function App() {
   return (
     <div className="App">
