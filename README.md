@@ -1,3 +1,5 @@
+Repo to implement firebase via https://codelabs.developers.google.com/codelabs/firestore-web
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
